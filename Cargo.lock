@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "RustArgParser"
+name = "rust_arg_parser"
 version = "0.1.0"
